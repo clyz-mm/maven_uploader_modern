@@ -1,0 +1,9 @@
+# Maven JAR包上传工具依赖
+
+# 核心依赖
+customtkinter>=5.2.0
+pillow>=9.0.0
+
+# 可选依赖（用于增强功能）
+# pyinstaller>=5.0.0  # 用于打包为可执行文件
+# cx_Freeze>=6.0.0    # 用于打包为可执行文件
